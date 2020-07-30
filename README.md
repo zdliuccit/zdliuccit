@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zdliuccit/zdliuccit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [秋风暮霞惋红曲!](https://github.com/zdliuccit) 👋
+### I'm [秋风暮霞惋红曲!](https://github.com/zdliuccit) 👋
 
 **Languages and Tools:**  
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<a href="https://github.com/zdliuccit/vue-webpack-config">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zdliuccit&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 
